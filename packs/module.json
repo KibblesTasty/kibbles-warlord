@@ -1,0 +1,37 @@
+{
+"name": "kibbles-warlord",
+"title": "Kibbles' Warlord",
+"description": "The Foundry module for Kibbles' warlord.",
+"author": "KibblesTasty",
+"version": "0.8.0",
+"minimumCoreVersion": "0.6.0",
+"compatibleCoreVersion": "9",
+"manifest": "https://github.com/KibblesTasty/kibbles-warlord/releases/download/archive/module.json",
+"download": "https://github.com/KibblesTasty/kibbles-warlord/releases/download/archive/kibbles-warlord-main.zip",
+"keywords" : [
+			"classes",
+			"subclasses",
+			"warlord",
+			"commander",
+			"chieftain",
+			"packleader",
+			"paragon",
+			"tactician"
+		],
+"packs": [
+			{
+			"name": "kibbles-warlord",
+			"label": "Kibbles' Warlord",
+			"system": "dnd5e",
+			"path": "packs/kibbles-warlord.db",
+			"entity": "Item",
+			"module": "kibbles-warlord"
+			}
+		],
+"authors": [
+			{
+			  "name": "KibblesTasty",
+			  "url": "https://kthomebrew.com"
+			}
+		]
+}
