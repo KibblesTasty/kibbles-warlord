@@ -3,7 +3,7 @@
 "title": "Kibbles' Warlord",
 "description": "The Foundry module for Kibbles' warlord.",
 "author": "KibblesTasty",
-"version": "0.8.2",
+"version": "0.8.3",
 "minimumCoreVersion": "0.6.0",
 "compatibleCoreVersion": "9",
 "manifest": "https://github.com/KibblesTasty/kibbles-warlord/releases/download/archive/module.json",
